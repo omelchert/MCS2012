@@ -1,0 +1,25 @@
+## \file   1D_randWalk.py
+#  \brief  simulate symmetric 1d random walk
+# 
+#  supplementary material MCS2011   
+#
+#  \author OM
+#  \date   XX.02.2011
+## import random modul that implements various
+## random number generators
+from random import seed, choice
+
+N=100		## steps in single walk
+n=10	## independent walks
+
+print '# (seed) (finPos)'
+for s in range(n):	
+   seed(s)
+   ## construct single walk
+   endPos = 0
+   for i in range(N):
+      endPos += choice([-1,1])
+   ## dump data to stdout
+   print s,endPos
+
+## EOF: 1D_randWalk.py 

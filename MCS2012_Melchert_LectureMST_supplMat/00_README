@@ -1,0 +1,40 @@
+This folder contains
+
+00_README
+        this file
+
+MCS2012_mstKruskal.py
+        python module that implements Kruskal's
+        algorithm for computing an MST of a 
+        given weighted undirected graph
+
+MCS2012_uGraphWeighted.py
+        python module implementing weighted undirected graph
+
+MCS2012_scaleFreeGraph.py
+        python module implementing scale free graphs
+
+MCS2012_mst_example1.py
+        python sctipt to compute the MST for
+        an undirected weighted graph, specified
+        in an input file similar to the file
+        exampleGraph.txt below
+
+MCS2012_mst_example2.py
+        python script to perform the simulations
+        for Figs. 5a-d
+
+MCS2012_mst_example3.py
+        python script to produce the example
+        MSTs of Figs. 4a,b
+
+MCS2012_mst_example4.py
+        python script to perform the simulations
+        for Fig. 5e
+
+exampleGraph.edgList
+        example graph, represented as edge list 
+
+PP
+        folder containing the simulation results and 
+        gnuplot scripts needed to produce Figs 5 a-e 

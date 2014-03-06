@@ -1,0 +1,60 @@
+This folder contains:
+
+00_README
+        this file
+
+MCS2012_lib.py
+        python module that implements various functions
+        as described in the written material
+        "Basic data analysis and more -- a guided tour using python"        
+
+EX_1DrandWalk
+        scripts that implement the example
+        "Monte Carlo simulation for the 1D random walk"
+
+EX_2DrandWalk
+        scripts that implement the example
+        "The continuous 2D random walk"
+
+EX_poorConvergence
+        scripts that implement the example
+        "Basic statistics"
+
+EX_binningPowerLawData
+        scripts that implement the example
+        "Data binning"
+
+EX_bootstrapResampling
+        scripts that implement the example
+        "Error estimation via bootstrap resampling"
+
+EX_chiSquare
+        scripts that implement the example
+        "Chi-square test"
+
+EX_OOP_undirGraph
+        scripts that implement the subsection
+        "Implementing an undirected graph" 
+
+EX_OOP_histogram
+        scripts that implement the subsection
+        "A simple histogram data structure"
+
+EX_scipy
+        scripts that implement the subsections
+        "Basic data analysis using scipy"
+        "Least-squares parameter estimation using scipy"
+        "Maximum likelihood parameter estimation using scipy"
+
+EX_scipy_clusterAnalysis
+        scripts that implement the example
+        "Hierarchical cluster analysis using scipy"
+
+EX_cython_boxMuellerBenchmark
+EX_cython_bootstrapResampling
+        scripts that implement (and extend) the subsection
+        "Combining C and python (Cython)"
+
+EX_multiProcess
+        scripts that implement the example
+        "Parallel computing and python"

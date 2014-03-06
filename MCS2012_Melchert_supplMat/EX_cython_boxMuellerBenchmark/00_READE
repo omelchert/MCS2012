@@ -1,0 +1,6 @@
+for this example you need to install Cython, see
+http://cython.org/
+for more information
+
+as well as the timeit module, see
+http://docs.python.org/library/timeit.html

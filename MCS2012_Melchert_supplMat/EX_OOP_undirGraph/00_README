@@ -1,0 +1,3 @@
+in order to postprocess the dot-language description of the 
+example graph you might need to install graphviz, see
+http://www.graphviz.org/
